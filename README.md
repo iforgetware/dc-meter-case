@@ -8,6 +8,8 @@ openscad model that uses a SMAKN LED Voltmeter Ammeter with shunts and AMP power
 Everything is modular and paramaterized which helps cut the time of test prints and allows what tuning I needed.
 
 This is a 0.5 version at best.
+
 Improvements needed
+-----------
 
 cover screws are too long. countersink.
